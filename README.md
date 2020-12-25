@@ -1,5 +1,10 @@
 # vue-muso-ninjas
 
+App to share playlists written with Vue and Firebase
+
+Firebase authemtication
+Firestore db
+
 ## Project setup
 ```
 npm install
