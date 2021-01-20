@@ -1,4 +1,4 @@
-# vue-muso-ninjas
+# Vue Miso Ninjas
 
 App to share playlists written with Vue and Firebase
 
